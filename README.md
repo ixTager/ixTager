@@ -1,4 +1,4 @@
-# Hi 👋, I'm Dmitriy Levitskiy
+# Hi 👋, I'm Dmitriy
 
 ### Java developer
 

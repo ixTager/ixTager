@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Spring Boot, Spring Security, STOMP, Thymeleaf and PostgreSQL**
 
-- 📫 How to reach me **levickiy.ds@gmail.com**
+- 📫 How to reach me **ixtager88@gmail.com**
 
 - ⚡ Fun fact **I really love interacting with people.**
 

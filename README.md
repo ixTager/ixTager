@@ -2,8 +2,6 @@
 
 ### Java developer
 
-- 🔭 I'm currently working on **a Carsharing Fleet Management System**
-
 - 🌱 I'm currently learning **Redis and Apache Kafka**
 
 - 👯 I'm looking to collaborate on **open source projects or commercial project**
@@ -14,7 +12,7 @@
 
 - 📫 How to reach me **ixtager88@gmail.com**
 
-- ⚡ Fun fact **I really love interacting with people.**
+- ⚡ Fun fact **I like making Minecraft mods from time to time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
